@@ -14,6 +14,7 @@ Dieses Skript ist ein inoffizielles, von der Community entwickeltes Werkzeug und
 ***
 
 *A German version of this guide can be found below.*
+
 *Eine deutsche Version dieser Anleitung befindet sich weiter unten.*
 
 ***
@@ -121,4 +122,3 @@ Nachdem das Skript fertig ist, kannst du die SD-Karte auswerfen und in deinem Fu
 ### Kompatibilität
 
 Dieses Skript wurde mit einem **Yaesu FT-5D** entwickelt und intensiv getestet. Da es auf der Dateistruktur basiert, die auch von anderen C4FM-fähigen Yaesu-Geräten verwendet wird, sollte es ebenfalls mit anderen Modellen wie dem **FT-3D, FTM-400D** und ähnlichen Funkgeräten kompatibel sein.
-```
