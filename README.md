@@ -7,7 +7,7 @@ This script intelligently synchronizes the picture database on a Yaesu radio's S
 This script is an unofficial tool and is not endorsed, supported, or affiliated with Yaesu or any of its subsidiaries. It is provided "as-is" without any warranties. Use it at your own risk. The author is not responsible for any damage, data loss, or malfunction of your radio or SD card caused by using this script. You must comply with all applicable laws and regulations regarding radio operation and content transmission.
 
 **Deutsch:**  
-Dieses Skript ist ein inoffizielles, von der Community entwickeltes Werkzeug und wird nicht von Yaesu oder einem seiner Tochterunternehmen unterstützt, genehmigt oder vertrieben. Es wird ohne jegliche Garantie bereitgestellt und die Nutzung erfolgt auf eigene Gefahr. Der Autor übernimmt keine Haftung für Schäden, Datenverlust oder Fehlfunktionen deines Funkgeräts oder der SD-Karte, die durch die Verwendung dieses Skripts entstehen können. Du bist verpflichtet, alle geltenden Gesetze und Vorschriften bezüglich Funkbetrieb und Inhaltsübertragung einzuhalten.
+Dieses Skript ist ein inoffizielles entwickeltes Werkzeug und wird nicht von Yaesu oder einem seiner Tochterunternehmen unterstützt, genehmigt oder vertrieben. Es wird ohne jegliche Garantie bereitgestellt und die Nutzung erfolgt auf eigene Gefahr. Der Autor übernimmt keine Haftung für Schäden, Datenverlust oder Fehlfunktionen deines Funkgeräts oder der SD-Karte, die durch die Verwendung dieses Skripts entstehen können. Du bist verpflichtet, alle geltenden Gesetze und Vorschriften bezüglich Funkbetrieb und Inhaltsübertragung einzuhalten.
 
 ## English Version
 
@@ -39,7 +39,7 @@ Before the first use, you must configure your personal data in the script. Open 
 MY_CALLSIGN = ""  # Enter your callsign here
 MY_RADIO_ID = ""  # Enter your Radio ID here
 ```
-> **Tip:** The Radio ID is specific to your device, which you can find in your radio's menu (often under `Setup` -> `GM` -> `Radio ID`).
+> **Tip:** The Radio ID is a specific identifier for your device, which you can find in your radio's menu (often under `Setup` -> `GM` -> `Radio ID`).
 
 Save the file. This configuration is permanent, so you only need to do this once.
 
@@ -63,7 +63,7 @@ python3 yaesu_indexer.py
 ```
 The script will now automatically find your new images, rename them according to the Yaesu convention, and build or update the necessary database files. Your message and audio logs will remain untouched.
 
-After the script has finished, you can eject the SD card and use it in your radio.
+After the script has finished, you can eject the SD card and use it in your radio. The script does not need to be deleted and can be reused later.
 
 ### Compatibility
 
@@ -93,7 +93,7 @@ Vor der ersten Nutzung musst du deine persönlichen Daten im Skript hinterlegen.
 MY_CALLSIGN = ""  # Trage hier dein Rufzeichen ein
 MY_RADIO_ID = ""  # Trage hier deine Radio-ID ein
 ```
-> **Tipp:** Die Radio-ID ist eine gerätespezifische, die du im Menü deines Funkgeräts findest (oft unter `Setup` -> `GM` -> `Radio ID`).
+> **Tipp:** Die Radio-ID ist eine gerätespezifische ID, die du im Menü deines Funkgeräts findest (oft unter `Setup` -> `GM` -> `Radio ID`).
 
 Speichere die Datei. Diese Konfiguration ist dauerhaft, du musst sie also nur einmal vornehmen.
 
@@ -117,7 +117,7 @@ python3 yaesu_indexer.py
 ```
 Das Skript findet nun automatisch deine neuen Bilder, benennt sie gemäß der Yaesu-Konvention um und erstellt bzw. aktualisiert die notwendigen Datenbankdateien. Deine Nachrichten- und Audio-Logs bleiben dabei unberührt.
 
-Nachdem das Skript fertig ist, kannst du die SD-Karte auswerfen und in deinem Funkgerät verwenden.
+Nachdem das Skript fertig ist, kannst du die SD-Karte auswerfen und in deinem Funkgerät verwenden. Das Skript muss nicht gelöscht werden und kann später so wieder verwendet werden.
 
 ### Kompatibilität
 
