@@ -1,4 +1,3 @@
-```markdown
 # Yaesu Picture Indexer
 
 This script intelligently synchronizes the picture database on a Yaesu radio's SD card, allowing you to use your own JPG images without the official camera microphone.
