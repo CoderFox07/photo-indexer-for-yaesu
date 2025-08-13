@@ -58,6 +58,9 @@ Copy the JPG images you want to use into the `/PHOTO` folder on your SD card. **
 #### 3. Run the Script
 
 Place the configured `yaesu_indexer.py` script in the root directory of your SD card. Connect the SD card to your computer, navigate to its root directory in a terminal or command prompt, and run the script:
+
+> **Note:** Python 3 is required to run this script. The script has been tested on Linux (Debian 12, Debian 13) and Windows 11 (with Python 3.13 downloaded from the Microsoft Store).
+
 ```bash
 python3 yaesu_indexer.py
 ```
@@ -112,6 +115,9 @@ Kopiere die JPG-Bilder, die du verwenden möchtest, in den `/PHOTO`-Ordner auf d
 #### 3. Skript ausführen
 
 Platziere die konfigurierte `yaesu_indexer.py`-Datei im Hauptverzeichnis deiner SD-Karte. Verbinde die SD-Karte mit deinem Computer, navigiere in einem Terminal oder einer Kommandozeile in das Hauptverzeichnis der Karte und führe das Skript aus:
+
+> **Hinweis:** Zum Ausführen dieses Skripts wird Python 3 benötigt. Das Skript wurde unter Linux (Debian 12, Debian 13) und Windows 11 (mit Python 3.13 aus dem Microsoft Store) getestet.
+
 ```bash
 python3 yaesu_indexer.py
 ```
