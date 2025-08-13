@@ -45,7 +45,7 @@ Save the file. This configuration is permanent, so you only need to do this once
 
 #### 2. Prepare Your Images
 
-Copy the JPG images you want to use into the `/PHOTO` folder on your SD card. Please ensure your images meet the following criteria for best results:
+Copy the JPG images you want to use into the `/PHOTO` folder on your SD card. **Make sure that you have formatted the SD card in the radio beforehand**, to ensure that all the necessary folder structures are created correctly. To achieve the best results, make sure that your images meet the following criteria:
 
 *   **Format:** Standard JPEG (`.jpg`).
 *   **JPEG Type:** Use **Baseline (Standard)** JPEG. **Do not** use "Progressive" JPEG, as the radio cannot display these. When exporting from image editing software (like GIMP), make sure the "Progressive" option is disabled.
@@ -99,7 +99,7 @@ Speichere die Datei. Diese Konfiguration ist dauerhaft, du musst sie also nur ei
 
 #### 2. Bilder vorbereiten
 
-Kopiere die JPG-Bilder, die du verwenden möchtest, in den `/PHOTO`-Ordner auf deiner SD-Karte. Bitte stelle für beste Ergebnisse sicher, dass deine Bilder die folgenden Kriterien erfüllen:
+Kopiere die JPG-Bilder, die du verwenden möchtest, in den `/PHOTO`-Ordner auf deiner SD-Karte. **Stelle sicher, dass die SD-Karte zuvor einmal im Funkgerät formatiert wurde**, damit alle erforderlichen Ordnerstrukturen korrekt angelegt sind. Bitte beachte für beste Ergebnisse die folgenden Kriterien für deine Bilder:
 
 *   **Format:** Standard-JPEG (`.jpg`).
 *   **JPEG-Typ:** Verwende **Baseline (Standard)** JPEG. Verwende **kein** "Progressive" JPEG, da das Funkgerät diese nicht darstellen kann. Achte beim Export aus einem Bildbearbeitungsprogramm (wie GIMP) darauf, dass die Option "Progressive" deaktiviert ist.
