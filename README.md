@@ -72,7 +72,12 @@ After the script has finished, you can eject the SD card and use it in your radi
 
 This script was developed and thoroughly tested with a **Yaesu FT-5D**. However, as it is based on the file structure also used by other C4FM-capable Yaesu devices, it should also be compatible with other models like the **FT-3D, FTM-400D**, and similar radios.
 
-***
+
+### Happy picture sending!
+
+73 de Aurelio - DK5AD
+
+
 
 ## Deutsche Version
 
@@ -128,3 +133,8 @@ Nachdem das Skript fertig ist, kannst du die SD-Karte auswerfen und in deinem Fu
 ### Kompatibilität
 
 Dieses Skript wurde mit einem **Yaesu FT-5D** entwickelt und intensiv getestet. Da es auf der Dateistruktur basiert, die auch von anderen C4FM-fähigen Yaesu-Geräten verwendet wird, sollte es ebenfalls mit anderen Modellen wie dem **FT-3D, FTM-400D** und ähnlichen Funkgeräten kompatibel sein.
+
+
+### Viel Spaß beim Senden der Bilder!
+
+73 de Aurelio - DK5AD
